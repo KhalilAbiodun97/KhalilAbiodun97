@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Khalil! </h1>
+
+<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/KhalilAbiodun97/LABURL)
+
+<h2>👨🏾‍🏫 Certifications</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/65899f15-8b9f-4fc4-85a1-d5780e351f14/public_url)
+
+<h2> 🤳🏾 Connect with me on LinkedIn:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/khalilabiodun/
 
 <!--
-**KhalilAbiodun97/KhalilAbiodun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
