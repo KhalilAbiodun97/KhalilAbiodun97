@@ -1,9 +1,5 @@
 <h1>Hi, I'm Khalil! </h1>
 
-<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/KhalilAbiodun97/LABURL)
-
 <h2>👨🏾‍🏫 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/65899f15-8b9f-4fc4-85a1-d5780e351f14/public_url)
